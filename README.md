@@ -664,6 +664,7 @@ These colorschemes may not specialize in Tree-sitter directly but are written in
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) - Collection of configurations for nvim-web-devicons.
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - Help you pick 𝑨𝕃𝚻 Font Characters, Symbols Σ, Nerd Font Icons  & Emojis ✨.
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim/) - Find and insert the latest nerd font glyphs.
+- [mong8se/actually.nvim](https://github.com/mong8se/actually.nvim) - A plugin to help load the file you actually meant to load.
 
 ## Media
 
